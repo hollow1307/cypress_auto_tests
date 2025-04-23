@@ -1,0 +1,6 @@
+{
+    "login": "#k_email",
+    "password": "#k_password",
+    "button": ".MuiButton-root"
+   
+}
